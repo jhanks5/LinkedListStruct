@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1538076499 source:c:\users\quick\onedrive\documents\school\data structures fall 2018\datastructlinkedlist\driver.c
+
+1538772966 source:c:\users\quick\onedrive\documents\school\data structures fall 2018\datastructlinkedlist\main.cpp
+	<iostream>
+	"List.h"
+
+1538772966 c:\users\quick\onedrive\documents\school\data structures fall 2018\datastructlinkedlist\include\list.h
+	<iostream>
+
+1538772966 source:c:\users\quick\onedrive\documents\school\data structures fall 2018\datastructlinkedlist\src\list.cpp
+	<iostream>
+	"List.h"
+
